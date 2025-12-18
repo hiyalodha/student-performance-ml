@@ -1,0 +1,15 @@
+feature,coefficient
+gender_male,13.064883856179089
+race_ethnicity_group E,4.892648955919755
+lunch_standard,3.5100748894192213
+test_preparation_course_none,3.2896423619132737
+parental_level_of_education_some college,0.9988561468954273
+parental_level_of_education_high school,0.9293122680358362
+parental_level_of_education_some high school,0.7564701614281323
+writing_score,0.7241479345599129
+race_ethnicity_group B,0.3593227983199022
+reading_score,0.23602256178534486
+race_ethnicity_group D,-0.6132362404202064
+race_ethnicity_group C,-0.62561715378725
+parental_level_of_education_bachelor's degree,-0.7169011299998301
+parental_level_of_education_master's degree,-1.4004888364410375
