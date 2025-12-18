@@ -24,3 +24,17 @@
 ## Saved Artifacts
 - Trained model: `models/linear_regression_model.pkl`
 - Feature importance: `data/feature_importance.csv`
+
+---
+
+## 📊 Model Performance
+
+A Linear Regression model was trained to predict students' math scores.
+
+**Evaluation Metrics:**
+- Mean Absolute Error (MAE): ~4.21
+- Mean Squared Error (MSE): ~29.09
+- Root Mean Squared Error (RMSE): ~5.39
+- R² Score: ~0.88
+
+The model explains approximately 88% of the variance in math scores, indicating strong predictive performance.
